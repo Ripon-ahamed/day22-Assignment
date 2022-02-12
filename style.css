@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.logo img{
+   width: 100px;
+}
+.font-family h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.banner-section{
+background:#f9f9ff ;
+}
+.banner-section-ripon{
+    position: relative;
+
+}
+.banner-content{
+margin-top: 12rem;
+}
+.box-img{
+    
+    margin-left: 100px;
+}
+.percentice-section{
+    text-align: center;
+    margin-bottom: 5px;
+    background: #8490ff;
+    font-size: 50px;
+    font-weight: 600;
+    padding: 100px;
+}
+.card-section{
+    box-shadow: 5px 15px 37px 0 rgb(rgb(247, 244, 244), rgb(239, 243, 239), rgb(236, 236, 241));
+}
+.box-section{
+    background:#f9f9ff ;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+.card-body{
+    box-shadow: 5px 15px 20px 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+.card-img-section{
+    margin: 20px;
+    padding-bottom: 20px;
+    pa
+}
+.card-img-section img{
+    position: relative;
+    width: 100px;
+    bottom: -20px;
+    margin-left: -12rem;
+   
+    
+}
+.contract-section{
+    background-color:#f9f9ff ;
+    padding-bottom: 50px;
+    position: relative;
+    
+}
+.contact-left-side{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 40px;
+}
+.foter{
+    padding: 30px;
+}
+
